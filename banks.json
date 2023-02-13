@@ -1,0 +1,502 @@
+[
+    {
+        "Rank":1,
+        "Bank name":"Industrial and Commercial Bank of China Limited",
+        "Total assets (2021) (US$ billion)":5536.53
+    },
+    {
+        "Rank":2,
+        "Bank name":"China Construction Bank",
+        "Total assets (2021) (US$ billion)":4762.46
+    },
+    {
+        "Rank":3,
+        "Bank name":"Agricultural Bank of China",
+        "Total assets (2021) (US$ billion)":4575.95
+    },
+    {
+        "Rank":4,
+        "Bank name":"Bank of China",
+        "Total assets (2021) (US$ billion)":4206.53
+    },
+    {
+        "Rank":5,
+        "Bank name":"JPMorgan Chase",
+        "Total assets (2021) (US$ billion)":3743.57
+    },
+    {
+        "Rank":6,
+        "Bank name":"Mitsubishi UFJ Financial Group",
+        "Total assets (2021) (US$ billion)":3176.84
+    },
+    {
+        "Rank":7,
+        "Bank name":"Bank of America",
+        "Total assets (2021) (US$ billion)":3169.5
+    },
+    {
+        "Rank":8,
+        "Bank name":"HSBC",
+        "Total assets (2021) (US$ billion)":2953.64
+    },
+    {
+        "Rank":9,
+        "Bank name":"BNP Paribas",
+        "Total assets (2021) (US$ billion)":2905.83
+    },
+    {
+        "Rank":10,
+        "Bank name":"Cr\u00e9dit Agricole",
+        "Total assets (2021) (US$ billion)":2674.35
+    },
+    {
+        "Rank":11,
+        "Bank name":"Citigroup Inc.",
+        "Total assets (2021) (US$ billion)":2291.41
+    },
+    {
+        "Rank":12,
+        "Bank name":"SMBC Group",
+        "Total assets (2021) (US$ billion)":2176.94
+    },
+    {
+        "Rank":13,
+        "Bank name":"Japan Post Bank",
+        "Total assets (2021) (US$ billion)":1998.98
+    },
+    {
+        "Rank":14,
+        "Bank name":"Postal Savings Bank of China",
+        "Total assets (2021) (US$ billion)":1981.53
+    },
+    {
+        "Rank":15,
+        "Bank name":"Mizuho Financial Group",
+        "Total assets (2021) (US$ billion)":1957.87
+    },
+    {
+        "Rank":16,
+        "Bank name":"Wells Fargo",
+        "Total assets (2021) (US$ billion)":1948.07
+    },
+    {
+        "Rank":17,
+        "Bank name":"Barclays",
+        "Total assets (2021) (US$ billion)":1874.4
+    },
+    {
+        "Rank":18,
+        "Bank name":"Bank of Communications",
+        "Total assets (2021) (US$ billion)":1836.38
+    },
+    {
+        "Rank":19,
+        "Bank name":"Banco Santander",
+        "Total assets (2021) (US$ billion)":1814.9
+    },
+    {
+        "Rank":20,
+        "Bank name":"Groupe BPCE",
+        "Total assets (2021) (US$ billion)":1724.12
+    },
+    {
+        "Rank":21,
+        "Bank name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+        "Total assets (2021) (US$ billion)":1665.47
+    },
+    {
+        "Rank":22,
+        "Bank name":"Deutsche Bank",
+        "Total assets (2021) (US$ billion)":1505.74
+    },
+    {
+        "Rank":23,
+        "Bank name":"Toronto-Dominion Bank",
+        "Total assets (2021) (US$ billion)":1486.4
+    },
+    {
+        "Rank":24,
+        "Bank name":"Goldman Sachs",
+        "Total assets (2021) (US$ billion)":1463.99
+    },
+    {
+        "Rank":25,
+        "Bank name":"China Merchants Bank",
+        "Total assets (2021) (US$ billion)":1455.94
+    },
+    {
+        "Rank":26,
+        "Bank name":"Royal Bank of Canada",
+        "Total assets (2021) (US$ billion)":1376.79
+    },
+    {
+        "Rank":27,
+        "Bank name":"Industrial Bank (China)",
+        "Total assets (2021) (US$ billion)":1354.25
+    },
+    {
+        "Rank":28,
+        "Bank name":"China CITIC Bank",
+        "Total assets (2021) (US$ billion)":1266.08
+    },
+    {
+        "Rank":29,
+        "Bank name":"Shanghai Pudong Development Bank",
+        "Total assets (2021) (US$ billion)":1251.38
+    },
+    {
+        "Rank":30,
+        "Bank name":"Cr\u00e9dit Mutuel",
+        "Total assets (2021) (US$ billion)":1249.36
+    },
+    {
+        "Rank":31,
+        "Bank name":"Intesa Sanpaolo",
+        "Total assets (2021) (US$ billion)":1215.74
+    },
+    {
+        "Rank":32,
+        "Bank name":"Lloyds Banking Group",
+        "Total assets (2021) (US$ billion)":1200.41
+    },
+    {
+        "Rank":33,
+        "Bank name":"Morgan Stanley",
+        "Total assets (2021) (US$ billion)":1188.14
+    },
+    {
+        "Rank":34,
+        "Bank name":"UBS",
+        "Total assets (2021) (US$ billion)":1117.18
+    },
+    {
+        "Rank":35,
+        "Bank name":"China Minsheng Bank",
+        "Total assets (2021) (US$ billion)":1094.48
+    },
+    {
+        "Rank":36,
+        "Bank name":"ING Group",
+        "Total assets (2021) (US$ billion)":1081.87
+    },
+    {
+        "Rank":37,
+        "Bank name":"NatWest Group",
+        "Total assets (2021) (US$ billion)":1058.86
+    },
+    {
+        "Rank":38,
+        "Bank name":"UniCredit",
+        "Total assets (2021) (US$ billion)":1042.5
+    },
+    {
+        "Rank":39,
+        "Bank name":"Scotiabank",
+        "Total assets (2021) (US$ billion)":978.48
+    },
+    {
+        "Rank":40,
+        "Bank name":"China Everbright Bank",
+        "Total assets (2021) (US$ billion)":929.08
+    },
+    {
+        "Rank":41,
+        "Bank name":"Norinchukin Bank",
+        "Total assets (2021) (US$ billion)":927.77
+    },
+    {
+        "Rank":42,
+        "Bank name":"Bank of Montreal",
+        "Total assets (2021) (US$ billion)":908.62
+    },
+    {
+        "Rank":43,
+        "Bank name":"La Banque postale",
+        "Total assets (2021) (US$ billion)":878.32
+    },
+    {
+        "Rank":44,
+        "Bank name":"Commonwealth Bank",
+        "Total assets (2021) (US$ billion)":836.05
+    },
+    {
+        "Rank":45,
+        "Bank name":"Credit Suisse",
+        "Total assets (2021) (US$ billion)":829.12
+    },
+    {
+        "Rank":46,
+        "Bank name":"Standard Chartered",
+        "Total assets (2021) (US$ billion)":827.82
+    },
+    {
+        "Rank":47,
+        "Bank name":"Banco Bilbao Vizcaya Argentaria",
+        "Total assets (2021) (US$ billion)":818.21
+    },
+    {
+        "Rank":48,
+        "Bank name":"Ping An Bank",
+        "Total assets (2021) (US$ billion)":774.7
+    },
+    {
+        "Rank":49,
+        "Bank name":"CaixaBank",
+        "Total assets (2021) (US$ billion)":773.38
+    },
+    {
+        "Rank":50,
+        "Bank name":"Rabobank",
+        "Total assets (2021) (US$ billion)":727.37
+    },
+    {
+        "Rank":51,
+        "Bank name":"DZ Bank",
+        "Total assets (2021) (US$ billion)":713.38
+    },
+    {
+        "Rank":52,
+        "Bank name":"Australia and New Zealand Banking Group",
+        "Total assets (2021) (US$ billion)":709.01
+    },
+    {
+        "Rank":53,
+        "Bank name":"State Bank of India",
+        "Total assets (2021) (US$ billion)":694.9
+    },
+    {
+        "Rank":54,
+        "Bank name":"Westpac",
+        "Total assets (2021) (US$ billion)":677.88
+    },
+    {
+        "Rank":55,
+        "Bank name":"Canadian Imperial Bank of Commerce",
+        "Total assets (2021) (US$ billion)":676.95
+    },
+    {
+        "Rank":56,
+        "Bank name":"National Australia Bank",
+        "Total assets (2021) (US$ billion)":670.7
+    },
+    {
+        "Rank":57,
+        "Bank name":"Resona Holdings",
+        "Total assets (2021) (US$ billion)":662.32
+    },
+    {
+        "Rank":58,
+        "Bank name":"Nordea",
+        "Total assets (2021) (US$ billion)":648.64
+    },
+    {
+        "Rank":59,
+        "Bank name":"Danske Bank",
+        "Total assets (2021) (US$ billion)":602.01
+    },
+    {
+        "Rank":60,
+        "Bank name":"U.S. Bancorp",
+        "Total assets (2021) (US$ billion)":573.28
+    },
+    {
+        "Rank":61,
+        "Bank name":"KB Financial Group Inc",
+        "Total assets (2021) (US$ billion)":557.35
+    },
+    {
+        "Rank":62,
+        "Bank name":"PNC Financial Services",
+        "Total assets (2021) (US$ billion)":557.19
+    },
+    {
+        "Rank":63,
+        "Bank name":"Sumitomo Mitsui Trust Holdings",
+        "Total assets (2021) (US$ billion)":553.87
+    },
+    {
+        "Rank":64,
+        "Bank name":"Huaxia Bank",
+        "Total assets (2021) (US$ billion)":550.75
+    },
+    {
+        "Rank":65,
+        "Bank name":"Sberbank of Russia",
+        "Total assets (2021) (US$ billion)":548.58
+    },
+    {
+        "Rank":66,
+        "Bank name":"Shinhan Bank",
+        "Total assets (2021) (US$ billion)":544.14
+    },
+    {
+        "Rank":67,
+        "Bank name":"Truist Financial Corp",
+        "Total assets (2021) (US$ billion)":541.24
+    },
+    {
+        "Rank":68,
+        "Bank name":"Commerzbank",
+        "Total assets (2021) (US$ billion)":536.65
+    },
+    {
+        "Rank":69,
+        "Bank name":"DBS Bank",
+        "Total assets (2021) (US$ billion)":508.89
+    },
+    {
+        "Rank":70,
+        "Bank name":"China Guangfa Bank",
+        "Total assets (2021) (US$ billion)":493.36
+    },
+    {
+        "Rank":71,
+        "Bank name":"Bank of Beijing",
+        "Total assets (2021) (US$ billion)":474.36
+    },
+    {
+        "Rank":72,
+        "Bank name":"ABN AMRO",
+        "Total assets (2021) (US$ billion)":453.9
+    },
+    {
+        "Rank":73,
+        "Bank name":"The Bank of New York Mellon",
+        "Total assets (2021) (US$ billion)":444.44
+    },
+    {
+        "Rank":74,
+        "Bank name":"Capital One",
+        "Total assets (2021) (US$ billion)":432.38
+    },
+    {
+        "Rank":75,
+        "Bank name":"Nonghyup Bank",
+        "Total assets (2021) (US$ billion)":425.58
+    },
+    {
+        "Rank":76,
+        "Bank name":"Hana Financial Group",
+        "Total assets (2021) (US$ billion)":421.81
+    },
+    {
+        "Rank":77,
+        "Bank name":"Bank of Shanghai",
+        "Total assets (2021) (US$ billion)":411.53
+    },
+    {
+        "Rank":78,
+        "Bank name":"OCBC Bank",
+        "Total assets (2021) (US$ billion)":402.16
+    },
+    {
+        "Rank":79,
+        "Bank name":"Bank of Jiangsu",
+        "Total assets (2021) (US$ billion)":400.75
+    },
+    {
+        "Rank":80,
+        "Bank name":"KBC Bank",
+        "Total assets (2021) (US$ billion)":393.17
+    },
+    {
+        "Rank":81,
+        "Bank name":"Nomura Holdings",
+        "Total assets (2021) (US$ billion)":392.71
+    },
+    {
+        "Rank":82,
+        "Bank name":"Nationwide Building Society",
+        "Total assets (2021) (US$ billion)":385.4
+    },
+    {
+        "Rank":83,
+        "Bank name":"Woori Bank",
+        "Total assets (2021) (US$ billion)":375.42
+    },
+    {
+        "Rank":84,
+        "Bank name":"Ita\u00fa Unibanco",
+        "Total assets (2021) (US$ billion)":371.38
+    },
+    {
+        "Rank":85,
+        "Bank name":"Handelsbanken",
+        "Total assets (2021) (US$ billion)":370.13
+    },
+    {
+        "Rank":86,
+        "Bank name":"SEB Group",
+        "Total assets (2021) (US$ billion)":365.43
+    },
+    {
+        "Rank":87,
+        "Bank name":"China Zheshang Bank",
+        "Total assets (2021) (US$ billion)":359.97
+    },
+    {
+        "Rank":88,
+        "Bank name":"Erste Group",
+        "Total assets (2021) (US$ billion)":350.96
+    },
+    {
+        "Rank":89,
+        "Bank name":"DNB ASA",
+        "Total assets (2021) (US$ billion)":342.97
+    },
+    {
+        "Rank":90,
+        "Bank name":"Banco do Brasil",
+        "Total assets (2021) (US$ billion)":340.89
+    },
+    {
+        "Rank":91,
+        "Bank name":"United Overseas Bank",
+        "Total assets (2021) (US$ billion)":340.7
+    },
+    {
+        "Rank":92,
+        "Bank name":"Industrial Bank of Korea",
+        "Total assets (2021) (US$ billion)":334.19
+    },
+    {
+        "Rank":93,
+        "Bank name":"Landesbank Baden-W\u00fcrttemberg",
+        "Total assets (2021) (US$ billion)":321.05
+    },
+    {
+        "Rank":94,
+        "Bank name":"State Street Corporation",
+        "Total assets (2021) (US$ billion)":314.62
+    },
+    {
+        "Rank":95,
+        "Bank name":"Desjardins Group",
+        "Total assets (2021) (US$ billion)":313.78
+    },
+    {
+        "Rank":96,
+        "Bank name":"Raiffeisen Gruppe",
+        "Total assets (2021) (US$ billion)":312.07
+    },
+    {
+        "Rank":97,
+        "Bank name":"Swedbank",
+        "Total assets (2021) (US$ billion)":304.2
+    },
+    {
+        "Rank":98,
+        "Bank name":"Bayerische Landesbank",
+        "Total assets (2021) (US$ billion)":303.14
+    },
+    {
+        "Rank":99,
+        "Bank name":"Banco Bradesco",
+        "Total assets (2021) (US$ billion)":300.73
+    },
+    {
+        "Rank":100,
+        "Bank name":"Qatar National Bank",
+        "Total assets (2021) (US$ billion)":300.24
+    }
+]
